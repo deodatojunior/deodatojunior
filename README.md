@@ -5,7 +5,8 @@
 - 🌱 **Learning Data Science, Data Engineering, Data Analysis, Machine Learning and CV**
 
 - ⚡ **Python and .NET Specialist**
-- 
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
