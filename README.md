@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deodato!</h1>
 
-- 🔭 **Software Engineer in Jungle Devs**
+- 🔭 **Software Engineer**
 
 - 🌱 **Learning Data Science, Data Engineering, Data Analysis, Machine Learning and CV**
 
