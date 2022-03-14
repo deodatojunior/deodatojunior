@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Deodato!</h1>
 
-- 🔭 **Software Engineer**
+- 🔭 **Software Engineer at Pravaler**
 
 - 🌱 **Learning Data Science, Data Engineering, Data Analysis, Machine Learning and CV**
 
-- ⚡ **Python and .NET Specialist**
+- ⚡ **Data, Cyber-security and Back-end Specialist**
 
 
 
