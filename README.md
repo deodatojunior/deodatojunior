@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deodato!</h1>
 
-- 🔭 **Software Engineer at Pravaler**
+- 🔭 **Devops Engineer at Governement of State of Rondônia**
 
 - 🌱 **Learning Data Science, Data Engineering, Data Analysis, Machine Learning and CV**
 
